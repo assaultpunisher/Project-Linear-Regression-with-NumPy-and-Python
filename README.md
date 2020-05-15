@@ -7,8 +7,8 @@ Linear regression is probably one of the most important and widely used regressi
 - Perform univariate linear regression with Numpy and Python
 - Create data visualizations and plots using matplotlib
 
-### SKILLS YOU WILL GAIN
-- __________________
+### SKILLS 
+- . . . . . . . . . . . . . . . . . . . . . . . . .
   - Data Science
   - Machine Learning
   - Python Programming
