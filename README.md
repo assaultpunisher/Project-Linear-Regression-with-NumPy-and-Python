@@ -12,5 +12,5 @@ Linear regression is probably one of the most important and widely used regressi
   - Data Science
   - Machine Learning
   - Python Programming
-  - regression
+  - Regression
   - Numpy
