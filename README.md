@@ -9,8 +9,8 @@ Linear regression is probably one of the most important and widely used regressi
 
 ### SKILLS YOU WILL GAIN
 - __________________
- - Data Science
- - Machine Learning
- - Python Programming
- - regression
- - Numpy
+  - Data Science
+  - Machine Learning
+  - Python Programming
+  - regression
+  - Numpy
